@@ -14,8 +14,7 @@ ser tomada e também sobre quando o remédio deve ser reposto.
 
 O projeto foi dividido em duas partes sendo a primeira delas um sistema mais simples 
 com algumas funcionalidades a menos, utilizando apenas o Arduino. Já a segunda parte
-engloba todas as funcionalidades propostas fazendo uso do Arduino e no PIC para imple-
-mentá-las.
+engloba todas as funcionalidades propostas fazendo uso do Arduino e no PIC para implementá-las.
 
 **2) Lista das principais funcionalidades que são implementadas no
 sistema:**
