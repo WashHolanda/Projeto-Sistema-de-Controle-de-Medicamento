@@ -1,3 +1,5 @@
+**Abaixo se encontra uma descrição completa sobre o projeto final realizado durante a disciplina de Sistemas Embarcados do ICT Unifesp.**
+
 # **Título do projeto: Sistema de controle e gerenciamento de medicamentos controlados**
 ### Nome do aluno: Washington Holanda de Oliveira
 **1) Resumo do projeto** 
